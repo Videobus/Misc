@@ -1,0 +1,33 @@
+Czech : á, é, í, ó, ú, ý, ď, ě, ň, ř, ť, ů, č, š, ž
+Slovak : á, é, í, ó, ú, ý, ď, ň, ť, č, š, ž, ä, ô, ĺ, ŕ, ľ 
+Hungarian : á, é, í, ó, ú, ö, ű, ő, ü
+Irish : á, í, ó, ú, é
+Portuguese : á, í, ó, ú, ô, ç, à, â, ã, é, ê, õ
+French : é, ô, ë, ï, ç, à, è, ù, â, ê, œ, î, û
+Spanish: é, í, ó, ú, ü, á, ñ
+Italian : é, à, è, ì, ò, ù
+Polish : ó, ą, ę, ł, ń, ź, ć, ś, ż
+Estonian : õ, š, ž, ä, ö, ü
+Latvian : ā, ē, ģ, ī, ķ, ļ, ņ, ū, č, š, ž
+Lithuanian : ą, ė, ę, į, ū, ų, č, š, ž
+BCMS : ć, č, š, ž, đ
+Slovenian : č, š, ž
+Finnish : ä, ö
+Swedish : ä, ö, å
+Dutch : ä, ö, ü, ë, ï
+German : ä, ö, ü, ß
+Luxembourgish : ä, é, ë
+Turkish : ö, ü, ç, ș, ğ, ı, İ
+Albanian : ë, ç
+Norwegian : å, æ, ø
+Danish : å, æ, ø
+Icelandic : á, æ, é, í, ó, ö, ú, ý, ð, þ
+Romanian : î, â, ă, ș, ț
+Maltese : ċ, ġ, ħ, ż
+Russian : ë, э, я, й, ю, ь, щ, ъ, ы
+Bulgarian : я, й, ю, ь, щ, ъ
+Macedonian : џ, љ, њ, j, ѓ, ќ, s
+Greek : 
+Ukrainian : я, й, ю, ь, щ, i, ï, ґ, є
+Montenegrin : ћ, ђ, џ, љ, њ, j, с́, з́
+Serbian : ћ,ђ, џ, љ, њ, j
